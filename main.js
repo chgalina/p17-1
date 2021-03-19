@@ -1,4 +1,4 @@
-alert("Здравствуйте");
+alert("Приветствую вас");
 alert("На данном сайте вы можете протестировать различные аспекты CSS,HTML и JS");
 let area = document.getElementById('area');
 let rangeInput = document.getElementById('range');
